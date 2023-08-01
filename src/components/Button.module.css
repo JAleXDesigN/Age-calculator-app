@@ -1,0 +1,36 @@
+.root {
+  border: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 6.4rem;
+  min-width: 6.4rem;
+  height: 6.4rem;
+  min-height: 6.4rem;
+  background-color: var(--purple);
+  border-radius: 50%;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.root:hover {
+  cursor: pointer;
+  background-color: var(--off-black);
+}
+
+.root > svg {
+  width: 2.4rem;
+}
+
+@media (min-width: 768px) {
+  .root {
+    width: 9.6rem;
+    height: 9.6rem;
+    min-width: 9.6rem;
+    min-height: 9.6rem;
+  }
+
+  .root > svg {
+    width: 4.6rem;
+  }
+}
