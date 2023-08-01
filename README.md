@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution](https://your-solution-url.com)
+- [Solution](https://www.frontendmentor.io/solutions/age-calculator-app-qm9teXur8T)
 - [Live Site](https://agecalc-jalex.netlify.app/)
 
 ## My process
