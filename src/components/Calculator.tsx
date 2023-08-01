@@ -29,19 +29,19 @@ const inputs: InputInfo[] = [
     id: "input-day",
     length: 2,
     label: "day",
-    placeholder: "15",
+    placeholder: "DD",
   },
   {
     id: "input-month",
     length: 2,
     label: "month",
-    placeholder: "03",
+    placeholder: "MM",
   },
   {
     id: "input-year",
     length: 4,
     label: "year",
-    placeholder: "1999",
+    placeholder: "YYYY",
   },
 ];
 
